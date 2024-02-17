@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js...**
 
-- 📫 How to reach me **developer@daniel-espanadero.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
