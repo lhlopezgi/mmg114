@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/d_espanadero" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_espanadero" height="40" width="50" /></a>
+
 <a href="https://www.linkedin.com/in/mauriciomunozg/ " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-espa%c3%b1adero-fern%c3%a1ndez-430266175/" height="40" width="50" /></a>
 <a href="https://www.instagram.com/mauriciousb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielespanadero/" height="40" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g" height="40" width="50" /></a>
