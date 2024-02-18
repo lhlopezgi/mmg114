@@ -26,13 +26,13 @@
 ## ⚡ Technologies
 
 ### :speech_balloon: Languages
-
+<div>
 <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
 <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">  
 <img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> 
 <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> 
 <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> 
-
+</div>
 ### :floppy_disk: Databases
 
 | <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> 
