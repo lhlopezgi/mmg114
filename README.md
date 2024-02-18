@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋🏻, Soy Mauricio Muñoz</h1>
 <h3 align="center">Apasionado por Todo el proceso de desarrollo de software</h3>
 
-- 👨‍💻 All of my projects are available at [https://daniel-espanadero.com/](https://daniel-espanadero.com/) (I need to catch up and update)
+- 👨‍💻 Todos mis proyectos web Proxumanmente aqui... 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js...**
 
