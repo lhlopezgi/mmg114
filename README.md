@@ -53,8 +53,6 @@
 <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519">  
 <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> 
 <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png">  
-<img title="Babel" alt="Babel" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"> 
 
 
 <br>
