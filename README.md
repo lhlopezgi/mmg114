@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos mis proyectos web Proxumanmente aqui... 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js...**
+- 💬Preguntame sobre  **AWS, JAVA, Spring, Bases de datos...**
 
 - 📫 How to reach me **developer@daniel-espanadero.com**
 
