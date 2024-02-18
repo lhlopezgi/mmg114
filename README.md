@@ -27,34 +27,35 @@
 
 ### :speech_balloon: Languages
 
-<img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> |
-<img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | 
-<img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> | 
-<img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | 
-<img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+<img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
+<img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">  
+<img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> 
+<img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> 
+<img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> 
 
 ### :floppy_disk: Databases
 
-| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | 
-  <img title="PostgresQl" alt="Postgres" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png"> |
-  <img title="Redis" alt="redis" width="55px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1920px-Redis_Logo.svg.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> 
+  <img title="PostgresQl" alt="Postgres" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png"> 
+  <img title="Redis" alt="redis" width="55px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1920px-Redis_Logo.svg.png"> 
 
 ### 🖼️ Frameworks & libraries
 
-| <img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> | 
-<img title="Kafka" alt="Node.js" width="55px" src="https://kafka.apache.org/logos/kafka_logo--simple.png"> | 
-<img title="Maven" alt="Express" width="55px" src="https://geekflare.com/wp-content/uploads/2019/10/Introduction-to-Maven-A-Simple-Project-Management-Tool.jpg"> | 
-<img title="Angular" alt="Angular" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314"> | 
-<img title="AWS" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+<img title="spring" alt="spring" width="55px" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"> 
+<img title="Kafka" alt="Node.js" width="55px" src="https://kafka.apache.org/logos/kafka_logo--simple.png"> 
+<img title="Maven" alt="Express" width="55px" src="https://geekflare.com/wp-content/uploads/2019/10/Introduction-to-Maven-A-Simple-Project-Management-Tool.jpg"> 
+<img title="Angular" alt="Angular" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314"> 
+<img title="AWS" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> 
 
 ### :wrench: Tools
 
-| <img title="IntelliJ" alt="IntelliJ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> | 
-<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"> | <img title="Babel" alt="Babel" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+<img title="IntelliJ" alt="IntelliJ" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"> 
+<img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519">  
+<img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> 
+<img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png">  
+<img title="Babel" alt="Babel" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"> 
+
 
 <br>
   
