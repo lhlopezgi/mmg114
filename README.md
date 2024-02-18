@@ -2,7 +2,7 @@
 <p align="center" width="300">
     <h1 align="center">Hi 👋🏻, I'm Mauricio Muñoz 👨🏻‍💻 </h1>
     <h3 align="center">A passionate Java (Colombia)</h3>
-    <img align="center" width="200" src="https://scontent.fclo8-1.fna.fbcdn.net/v/t39.30808-6/413040133_10226513822566752_6630753842273716016_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Jqbp4JdK3zUAX-qxNNB&_nc_oc=AQmAqrG4D7V-he4wQmhLKxn8q199oHtvCuDd9XG9Tqi3zXzkf5JffbBmcb0eYpN4hTA&_nc_ht=scontent.fclo8-1.fna&oh=00_AfB7wmLU5aieLBZP7turRlA-QAq5ckjLxj3VwzOhAkQIdg&oe=65D6DFC2" />
+  
  </p>
  
  - 💬 Ask me about **Java, Spring, kafka, Sql...**
