@@ -52,17 +52,17 @@
 
 <br>
 
-## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
+## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w)
 
 <br>
 
-<a href='https://www.youtube.com/watch?v=mK5Xwj0inZA' target='_blank'>
+<a style="display: none;" href='https://www.youtube.com/watch?v=mK5Xwj0inZA' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/mK5Xwj0inZA/maxresdefault.jpg' alt='🐥👨🏻‍💻 PROGRAMACIÓN ORIENTADA A OBJETOS [CON EJEMPLO EN JAVA] | DE 0 A SEÑOR DE LA DESTRUCCIÓN 😈💥' />
 </a>
-<a href='https://www.youtube.com/watch?v=KtxNclOV4jk' target='_blank'>
+<a style="display: none;" href='https://www.youtube.com/watch?v=KtxNclOV4jk' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/KtxNclOV4jk/maxresdefault.jpg' alt='🏛👨🏻‍💻 ¡PRINCIPIOS SOLID EXPLICADOS! | DE 0 A SUPER SAIYAN 4' />
 </a>
-<a href='https://www.youtube.com/watch?v=JD_ZL3Bnaog' target='_blank'>
+<a style="display: none;" href='https://www.youtube.com/watch?v=JD_ZL3Bnaog' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/JD_ZL3Bnaog/maxresdefault.jpg' alt='⬣👨🏻‍💻 ARQUITECTURA HEXAGONAL | DE 0 A DIOS DE LA GUERRA [EXPLICACIÓN + PROYECTO CON JAVA Y SPRING]' />
 </a>
 
