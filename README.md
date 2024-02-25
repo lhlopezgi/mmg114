@@ -23,7 +23,7 @@
 
 ### :floppy_disk: Databases
 
-| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="MySQL" alt="MySQL" width="55px" src="https://yt3.ggpht.com/ytc/AKedOLRpJVGUTtjVE_mf-DouS6NeZVEDVBqdjc1diCIQEg=s900-c-k-c0x00ffffff-no-rj"> |
+| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="PostgreSQL" alt="PostgreSQL" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png"> |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 
 ### 🖼️ Frameworks & libraries
