@@ -65,6 +65,3 @@
 <a style="display: none;" href='https://www.youtube.com/watch?v=JD_ZL3Bnaog' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/JD_ZL3Bnaog/maxresdefault.jpg' alt='⬣👨🏻‍💻 ARQUITECTURA HEXAGONAL | DE 0 A DIOS DE LA GUERRA [EXPLICACIÓN + PROYECTO CON JAVA Y SPRING]' />
 </a>
-
-<br>
-
