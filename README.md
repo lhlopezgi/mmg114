@@ -10,8 +10,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mauriciomunozg/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mi perfil De Linkedin" height="40" width="50" /></a>
-<a href="https://www.instagram.com/mauriciousb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/danielespanadero/" height="40" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucytsoy4tww6e-ooipap275g" height="40" width="50" /></a>
+<a href="https://www.instagram.com/mauriciousb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mauriciousb/" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w" height="40" width="50" /></a>
 </p><br>
 
 ## ⚡ Technologies
