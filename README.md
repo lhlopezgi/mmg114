@@ -56,12 +56,3 @@
 
 <br>
 
-<a style="display: none;" href='' target='_blank'>
-  <img width='30%' src='' alt='🐥👨🏻‍💻 PROGRAMACIÓN ORIENTADA A OBJETOS [CON EJEMPLO EN JAVA] | DE 0 A SEÑOR DE LA DESTRUCCIÓN 😈💥' />
-</a>
-<a style="display: none;" href='' target='_blank'>
-  <img width='30%' src='' alt='🏛👨🏻‍💻 ¡PRINCIPIOS SOLID EXPLICADOS! | DE 0 A SUPER SAIYAN 4' />
-</a>
-<a style="display: none;" href='' target='_blank'>
-  <img width='30%' src='' alt='⬣👨🏻‍💻 ARQUITECTURA HEXAGONAL | DE 0 A DIOS DE LA GUERRA [EXPLICACIÓN + PROYECTO CON JAVA Y SPRING]' />
-</a>
