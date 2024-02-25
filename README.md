@@ -68,14 +68,3 @@
 
 <br>
 
-## 🏆🥇 1st place in some [hackathons](https://www.youtube.com/channel/UCytSoY4twW6E-OoIPaP275g?sub_confirmation=1)
-
-<br>
-
-<a href='https://www.youtube.com/watch?v=I3S3_0_3xCc' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/I3S3_0_3xCc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNFd9Eb9sCTU8yZ7qOnegzvKkdhw' alt='🥇 GANADORES MOBILE WORD CONGRESS BARCELONA 2022 | 🧑🏻‍💻👩🏻‍💻HACKATHON' />
-</a>
-<a href='https://www.youtube.com/watch?v=rqsXVvWMHYc' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/rqsXVvWMHYc/maxresdefault.jpg' alt='🥇 GANADORES #VILADEHACK TOURISM 2022 | 🧑🏻‍💻👩🏻‍💻 #HACKATHON #VILADECANS' />
-</a>
-
