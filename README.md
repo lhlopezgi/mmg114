@@ -38,10 +38,10 @@
 
 <br>
   
-## :muscle: My strengths
-- :question: I try to **learn** something new every day.
-- 👥 I try to bring out the best in people.
-- ✅ **Validation** nerd.
+## :muscle: Mis Fortalezas
+- :question: Aprendo algo nuevo **A diario**.
+- 👥 Intento sacar lo mejor de las personas.
+- ✅ **Validation** Me gusta enseñar y darme a entender.
 
 <br>
 
