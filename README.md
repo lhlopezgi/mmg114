@@ -52,7 +52,7 @@
 
 <br>
 
-## 📹 Some of my programming videos on [YouTube](https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w)
+## 📹 Algunos otros videos de programacion en [YouTube](https://www.youtube.com/channel/UCOl8KNKKVleqCe5WLH9Pq_w)
 
 <br>
 
