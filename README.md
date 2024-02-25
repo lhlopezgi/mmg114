@@ -79,10 +79,3 @@
   <img width='30%' src='https://i.ytimg.com/vi/rqsXVvWMHYc/maxresdefault.jpg' alt='🥇 GANADORES #VILADEHACK TOURISM 2022 | 🧑🏻‍💻👩🏻‍💻 #HACKATHON #VILADECANS' />
 </a>
 
-<br>
-
-## 🤔 Other interesting facts from my github
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielespanadero&show_icons=true&locale=en&layout=compact" alt="danielespanadero" /></p><br><br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielespanadero&show_icons=true&locale=en" alt="danielespanadero" /></p>
