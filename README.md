@@ -45,10 +45,10 @@
 
 <br>
 
-## :sweat_smile: My flaws
-- 🤯 Sometimes I find it hard to take a break.
-- :tshirt: I'm not good at dressing like an adult.
-- :innocent: Sorry, what was your name?
+## :sweat_smile: Mis debilidades
+- 🤯 Mesclar mi tiempo laboral con el personal.
+- :tshirt: No soy bueno recordando nombres.
+- :innocent: Me cuesta hagarrar nuevo habitos
 
 <br>
 
