@@ -46,7 +46,7 @@
 <br>
 
 ## :sweat_smile: Mis debilidades
-- 🤯 Mesclar mi tiempo laboral con el personal.
+- 🤯 Mezclar mi tiempo laboral con el personal.
 - :tshirt: No soy bueno recordando nombres.
 - :innocent: Me cuesta hagarrar nuevo habitos
 
